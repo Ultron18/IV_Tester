@@ -1,0 +1,18 @@
+v6:
+1) Automated netlist writer
+2) Display patters for Voltage and current plots
+
+v7:
+1) Use 9x9 configuration and make to similar to LTSpice model
+2) Compare the results with Spice model
+
+Spice:
+1) Change measurement ckt to the one used in Python
+2) Properly look into the probing configuration
+
+
+Immediate work: Spice-1,2 ; v6-1 ; v7-1,2 ; v6-2
+
+
+Inferences:
+Are we getting the same results through LTspice and pyLTspice???

@@ -1,0 +1,3 @@
+1) Tweak the gold plate values to match with the measured IV characteristics 	[DONE]
+2) Create a pictorial representation of the solar cell mesh model		[DONE]
+3) Modify the connection between Gold and Bottom plate				[Refer Mk9]-[Yet to do]

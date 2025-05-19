@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\ASUS\Desktop\Semesters\Sem 7\BTP\Continuous bus probing for unanimous voltage and current probing for PV array\LTSpice models\PV_array_files\Draft5.asc
+Start Time: Fri Jan 10 02:43:38 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.082 seconds.
+

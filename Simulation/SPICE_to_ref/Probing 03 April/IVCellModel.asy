@@ -1,0 +1,19 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 6 33 26 33
+LINE Normal 16 17 6 33
+LINE Normal 26 33 16 17
+LINE Normal 6 17 26 17
+LINE Normal 16 40 16 33
+LINE Normal 16 7 16 17
+LINE Normal 16 -16 16 0
+LINE Normal 16 64 16 48
+RECTANGLE Normal 32 48 0 0
+TEXT 24 -16 Left 0 X
+TEXT 24 64 Left 0 Y
+PIN 16 -16 NONE 8
+PINATTR PinName X
+PINATTR SpiceOrder 1
+PIN 16 64 NONE 8
+PINATTR PinName Y
+PINATTR SpiceOrder 2

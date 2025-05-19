@@ -1,0 +1,23 @@
+Crude To Do:
+
+1) Modify the gold plate to bottom plate connection by assigning a resistance (in `ConfigI` and `ConfigNI`).
+
+2) Do optimization fitting for R in Gold Chuck (with known α -for spatial asymmetry (whose value is known)).
+
+3) Include RcBG between every nodes of Bottom and Gold plate, and fit this to get the measured plot.
+
+----------------------------------------------------------------------------------------------------
+To Do:
+
+1) Get R(side-to-side) = ρ/t analytically, consider it as the golden reference. Build a sheet of resistance for gold plate, feed the current from side-to-side and measure the R(side-to-side) = ρ/t...Create an optimization routine to fit Rg_bb and Rg_f = α.Rg_bb
+
+Yay :) We will get Rg_bb and Rg_f
+
+2) Run the complete python simulation and check if the curve is what we desire. If not add a small resistance as RcBG and iterate with that resistance to get the curve.
+
+----------------------------------------------------------------------------------------------------
+Methodology:
+
+1) ρ = 2.44e-8 Ωm
+
+2) R(side-to-side) = 

@@ -1,0 +1,19 @@
+Difference b/w Spice and Python:
+1) The probing contacts in the top is different (python has triplet whereas spice has)
+2) The bottom point for non isolated config is shorted for V and I
+3) The center isolated point is present there in both the case!
+
+In Spice:
+1) The difference is visible in isolated and non-isolated when only gold plate value is changed
+
+
+-----------------------------------------------------------------------------------------------
+Changes done: [1 iteration for NI is done]
+1) Kept the isolated center unchanged for both configs
+2) Top plate probing contact is changed
+3) The bottom points for V and I are shorted
+
+Yet to:[i.e., for 1st iteration (NI config)]
+1) The .net and .sub file for solarcell is created...
+2) Has the .net file of FVMI and FIMV. Need to combine the two to make full.net netlist
+-----------------------------------------------------------------------------------------------

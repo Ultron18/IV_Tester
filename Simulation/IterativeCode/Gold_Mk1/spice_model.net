@@ -1,0 +1,8 @@
+*C:\Users\ASUS\Desktop\Semesters\Sem 8\BTP\Simulation\Gold_Mk0\spice_model.asc
+I1 0 N001 1
+R1 N001 0 1000.0
+R2 N001 0 2000.0
+R3 N001 0 3000.0
+.tran 10m
+.backanno
+.end

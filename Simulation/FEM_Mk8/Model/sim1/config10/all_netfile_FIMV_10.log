@@ -1,0 +1,310 @@
+LTspice 24.0.12 for Windows
+Circuit: *C:\Users\ASUS\Desktop\Semesters\Sem 8\BTP\Simulation\FEM_Mk5\Model\sim1\config10Model\sim1\config10\solarcell.asc
+Start Time: Thu Mar 27 12:37:45 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node t1_0.  This node is used by rf_f1_0.
+WARNING: Less than two connections to node t1_10.  This node is used by rf_f1_9.
+WARNING: Less than two connections to node t2_0.  This node is used by rf_f2_0.
+WARNING: Less than two connections to node t2_10.  This node is used by rf_f2_9.
+WARNING: Less than two connections to node t3_0.  This node is used by rf_f3_0.
+WARNING: Less than two connections to node t3_10.  This node is used by rf_f3_9.
+WARNING: Less than two connections to node t4_0.  This node is used by rf_f4_0.
+WARNING: Less than two connections to node t4_10.  This node is used by rf_f4_9.
+WARNING: Less than two connections to node t5_0.  This node is used by rf_f5_0.
+WARNING: Less than two connections to node t5_10.  This node is used by rf_f5_9.
+WARNING: Less than two connections to node t6_0.  This node is used by rf_f6_0.
+WARNING: Less than two connections to node t6_10.  This node is used by rf_f6_9.
+WARNING: Less than two connections to node t7_0.  This node is used by rf_f7_0.
+WARNING: Less than two connections to node t7_10.  This node is used by rf_f7_9.
+WARNING: Less than two connections to node t8_0.  This node is used by rf_f8_0.
+WARNING: Less than two connections to node t8_10.  This node is used by rf_f8_9.
+WARNING: Less than two connections to node t9_0.  This node is used by rf_f9_0.
+WARNING: Less than two connections to node t9_10.  This node is used by rf_f9_9.
+WARNING: Less than two connections to node t10_0.  This node is used by rf_f10_0.
+WARNING: Less than two connections to node t10_10.  This node is used by rf_f10_9.
+WARNING: Less than two connections to node t11_0.  This node is used by rf_f11_0.
+WARNING: Less than two connections to node t11_10.  This node is used by rf_f11_9.
+WARNING: Less than two connections to node t12_0.  This node is used by rf_f12_0.
+WARNING: Less than two connections to node t12_10.  This node is used by rf_f12_9.
+WARNING: Less than two connections to node t13_0.  This node is used by rf_f13_0.
+WARNING: Less than two connections to node t13_10.  This node is used by rf_f13_9.
+WARNING: Less than two connections to node t14_0.  This node is used by rf_f14_0.
+WARNING: Less than two connections to node t14_10.  This node is used by rf_f14_9.
+WARNING: Less than two connections to node t15_0.  This node is used by rf_f15_0.
+WARNING: Less than two connections to node t15_10.  This node is used by rf_f15_9.
+WARNING: Less than two connections to node t16_0.  This node is used by rf_f16_0.
+WARNING: Less than two connections to node t16_10.  This node is used by rf_f16_9.
+WARNING: Less than two connections to node t17_0.  This node is used by rf_f17_0.
+WARNING: Less than two connections to node t17_10.  This node is used by rf_f17_9.
+WARNING: Less than two connections to node t18_0.  This node is used by rf_f18_0.
+WARNING: Less than two connections to node t18_10.  This node is used by rf_f18_9.
+WARNING: Less than two connections to node t19_0.  This node is used by rf_f19_0.
+WARNING: Less than two connections to node t19_10.  This node is used by rf_f19_9.
+WARNING: Less than two connections to node t20_0.  This node is used by rf_f20_0.
+WARNING: Less than two connections to node t20_10.  This node is used by rf_f20_9.
+WARNING: Less than two connections to node t21_0.  This node is used by rf_f21_0.
+WARNING: Less than two connections to node t21_10.  This node is used by rf_f21_9.
+WARNING: Less than two connections to node t22_0.  This node is used by rf_f22_0.
+WARNING: Less than two connections to node t22_10.  This node is used by rf_f22_9.
+WARNING: Less than two connections to node t23_0.  This node is used by rf_f23_0.
+WARNING: Less than two connections to node t23_10.  This node is used by rf_f23_9.
+WARNING: Less than two connections to node t24_0.  This node is used by rf_f24_0.
+WARNING: Less than two connections to node t24_10.  This node is used by rf_f24_9.
+WARNING: Less than two connections to node t25_0.  This node is used by rf_f25_0.
+WARNING: Less than two connections to node t25_10.  This node is used by rf_f25_9.
+WARNING: Less than two connections to node t26_0.  This node is used by rf_f26_0.
+WARNING: Less than two connections to node t26_10.  This node is used by rf_f26_9.
+WARNING: Less than two connections to node t27_0.  This node is used by rf_f27_0.
+WARNING: Less than two connections to node t27_10.  This node is used by rf_f27_9.
+WARNING: Less than two connections to node t28_0.  This node is used by rf_f28_0.
+WARNING: Less than two connections to node t28_10.  This node is used by rf_f28_9.
+WARNING: Less than two connections to node t29_0.  This node is used by rf_f29_0.
+WARNING: Less than two connections to node t29_10.  This node is used by rf_f29_9.
+WARNING: Less than two connections to node t30_0.  This node is used by rf_f30_0.
+WARNING: Less than two connections to node t30_10.  This node is used by rf_f30_9.
+WARNING: Less than two connections to node t31_0.  This node is used by rf_f31_0.
+WARNING: Less than two connections to node t31_10.  This node is used by rf_f31_9.
+WARNING: Less than two connections to node t32_0.  This node is used by rf_f32_0.
+WARNING: Less than two connections to node t32_10.  This node is used by rf_f32_9.
+WARNING: Less than two connections to node t33_0.  This node is used by rf_f33_0.
+WARNING: Less than two connections to node t33_10.  This node is used by rf_f33_9.
+WARNING: Less than two connections to node t34_0.  This node is used by rf_f34_0.
+WARNING: Less than two connections to node t34_10.  This node is used by rf_f34_9.
+WARNING: Less than two connections to node t35_0.  This node is used by rf_f35_0.
+WARNING: Less than two connections to node t35_10.  This node is used by rf_f35_9.
+WARNING: Less than two connections to node t36_0.  This node is used by rf_f36_0.
+WARNING: Less than two connections to node t36_10.  This node is used by rf_f36_9.
+WARNING: Less than two connections to node t37_0.  This node is used by rf_f37_0.
+WARNING: Less than two connections to node t37_10.  This node is used by rf_f37_9.
+WARNING: Less than two connections to node t38_0.  This node is used by rf_f38_0.
+WARNING: Less than two connections to node t38_10.  This node is used by rf_f38_9.
+WARNING: Less than two connections to node t39_0.  This node is used by rf_f39_0.
+WARNING: Less than two connections to node t39_10.  This node is used by rf_f39_9.
+WARNING: Less than two connections to node t40_0.  This node is used by rf_f40_0.
+WARNING: Less than two connections to node t40_10.  This node is used by rf_f40_9.
+WARNING: Less than two connections to node t41_0.  This node is used by rf_f41_0.
+WARNING: Less than two connections to node t41_10.  This node is used by rf_f41_9.
+WARNING: Less than two connections to node t42_0.  This node is used by rf_f42_0.
+WARNING: Less than two connections to node t42_10.  This node is used by rf_f42_9.
+WARNING: Less than two connections to node t43_0.  This node is used by rf_f43_0.
+WARNING: Less than two connections to node t43_10.  This node is used by rf_f43_9.
+WARNING: Less than two connections to node t44_0.  This node is used by rf_f44_0.
+WARNING: Less than two connections to node t44_10.  This node is used by rf_f44_9.
+WARNING: Less than two connections to node t45_0.  This node is used by rf_f45_0.
+WARNING: Less than two connections to node t45_10.  This node is used by rf_f45_9.
+WARNING: Less than two connections to node t46_0.  This node is used by rf_f46_0.
+WARNING: Less than two connections to node t46_10.  This node is used by rf_f46_9.
+WARNING: Less than two connections to node t47_0.  This node is used by rf_f47_0.
+WARNING: Less than two connections to node t47_10.  This node is used by rf_f47_9.
+WARNING: Less than two connections to node t48_0.  This node is used by rf_f48_0.
+WARNING: Less than two connections to node t48_10.  This node is used by rf_f48_9.
+WARNING: Less than two connections to node t49_0.  This node is used by rf_f49_0.
+WARNING: Less than two connections to node t49_10.  This node is used by rf_f49_9.
+WARNING: Less than two connections to node t50_0.  This node is used by rf_f50_0.
+WARNING: Less than two connections to node t50_10.  This node is used by rf_f50_9.
+WARNING: Less than two connections to node t51_0.  This node is used by rf_f51_0.
+WARNING: Less than two connections to node t51_10.  This node is used by rf_f51_9.
+WARNING: Less than two connections to node t52_0.  This node is used by rf_f52_0.
+WARNING: Less than two connections to node t52_10.  This node is used by rf_f52_9.
+WARNING: Less than two connections to node t53_0.  This node is used by rf_f53_0.
+WARNING: Less than two connections to node t53_10.  This node is used by rf_f53_9.
+WARNING: Less than two connections to node t54_0.  This node is used by rf_f54_0.
+WARNING: Less than two connections to node t54_10.  This node is used by rf_f54_9.
+WARNING: Less than two connections to node t55_0.  This node is used by rf_f55_0.
+WARNING: Less than two connections to node t55_10.  This node is used by rf_f55_9.
+WARNING: Less than two connections to node t56_0.  This node is used by rf_f56_0.
+WARNING: Less than two connections to node t56_10.  This node is used by rf_f56_9.
+WARNING: Less than two connections to node t57_0.  This node is used by rf_f57_0.
+WARNING: Less than two connections to node t57_10.  This node is used by rf_f57_9.
+WARNING: Less than two connections to node t58_0.  This node is used by rf_f58_0.
+WARNING: Less than two connections to node t58_10.  This node is used by rf_f58_9.
+WARNING: Less than two connections to node t59_0.  This node is used by rf_f59_0.
+WARNING: Less than two connections to node t59_10.  This node is used by rf_f59_9.
+WARNING: Less than two connections to node t60_0.  This node is used by rf_f60_0.
+WARNING: Less than two connections to node t60_10.  This node is used by rf_f60_9.
+WARNING: Less than two connections to node t61_0.  This node is used by rf_f61_0.
+WARNING: Less than two connections to node t61_10.  This node is used by rf_f61_9.
+WARNING: Less than two connections to node t62_0.  This node is used by rf_f62_0.
+WARNING: Less than two connections to node t62_10.  This node is used by rf_f62_9.
+WARNING: Less than two connections to node t63_0.  This node is used by rf_f63_0.
+WARNING: Less than two connections to node t63_10.  This node is used by rf_f63_9.
+WARNING: Less than two connections to node t64_0.  This node is used by rf_f64_0.
+WARNING: Less than two connections to node t64_10.  This node is used by rf_f64_9.
+WARNING: Less than two connections to node t65_0.  This node is used by rf_f65_0.
+WARNING: Less than two connections to node t65_10.  This node is used by rf_f65_9.
+WARNING: Less than two connections to node t66_0.  This node is used by rf_f66_0.
+WARNING: Less than two connections to node t66_10.  This node is used by rf_f66_9.
+WARNING: Less than two connections to node t67_0.  This node is used by rf_f67_0.
+WARNING: Less than two connections to node t67_10.  This node is used by rf_f67_9.
+WARNING: Less than two connections to node t68_0.  This node is used by rf_f68_0.
+WARNING: Less than two connections to node t68_10.  This node is used by rf_f68_9.
+WARNING: Less than two connections to node t69_0.  This node is used by rf_f69_0.
+WARNING: Less than two connections to node t69_10.  This node is used by rf_f69_9.
+WARNING: Less than two connections to node t70_0.  This node is used by rf_f70_0.
+WARNING: Less than two connections to node t70_10.  This node is used by rf_f70_9.
+WARNING: Less than two connections to node t71_0.  This node is used by rf_f71_0.
+WARNING: Less than two connections to node t71_10.  This node is used by rf_f71_9.
+WARNING: Less than two connections to node t72_0.  This node is used by rf_f72_0.
+WARNING: Less than two connections to node t72_10.  This node is used by rf_f72_9.
+WARNING: Less than two connections to node t73_0.  This node is used by rf_f73_0.
+WARNING: Less than two connections to node t73_10.  This node is used by rf_f73_9.
+WARNING: Less than two connections to node t74_0.  This node is used by rf_f74_0.
+WARNING: Less than two connections to node t74_10.  This node is used by rf_f74_9.
+WARNING: Less than two connections to node t75_0.  This node is used by rf_f75_0.
+WARNING: Less than two connections to node t75_10.  This node is used by rf_f75_9.
+WARNING: Less than two connections to node t76_0.  This node is used by rf_f76_0.
+WARNING: Less than two connections to node t76_10.  This node is used by rf_f76_9.
+WARNING: Less than two connections to node t77_0.  This node is used by rf_f77_0.
+WARNING: Less than two connections to node t77_10.  This node is used by rf_f77_9.
+WARNING: Less than two connections to node t78_0.  This node is used by rf_f78_0.
+WARNING: Less than two connections to node t78_10.  This node is used by rf_f78_9.
+WARNING: Less than two connections to node t79_0.  This node is used by rf_f79_0.
+WARNING: Less than two connections to node t79_10.  This node is used by rf_f79_9.
+WARNING: Less than two connections to node t80_0.  This node is used by rf_f80_0.
+WARNING: Less than two connections to node t80_10.  This node is used by rf_f80_9.
+WARNING: Less than two connections to node t81_0.  This node is used by rf_f81_0.
+WARNING: Less than two connections to node t81_10.  This node is used by rf_f81_9.
+WARNING: Less than two connections to node t82_0.  This node is used by rf_f82_0.
+WARNING: Less than two connections to node t82_10.  This node is used by rf_f82_9.
+WARNING: Less than two connections to node t83_0.  This node is used by rf_f83_0.
+WARNING: Less than two connections to node t83_10.  This node is used by rf_f83_9.
+WARNING: Less than two connections to node t84_0.  This node is used by rf_f84_0.
+WARNING: Less than two connections to node t84_10.  This node is used by rf_f84_9.
+WARNING: Less than two connections to node t85_0.  This node is used by rf_f85_0.
+WARNING: Less than two connections to node t85_10.  This node is used by rf_f85_9.
+WARNING: Less than two connections to node t86_0.  This node is used by rf_f86_0.
+WARNING: Less than two connections to node t86_10.  This node is used by rf_f86_9.
+WARNING: Less than two connections to node t87_0.  This node is used by rf_f87_0.
+WARNING: Less than two connections to node t87_10.  This node is used by rf_f87_9.
+WARNING: Less than two connections to node t88_0.  This node is used by rf_f88_0.
+WARNING: Less than two connections to node t88_10.  This node is used by rf_f88_9.
+WARNING: Less than two connections to node t89_0.  This node is used by rf_f89_0.
+WARNING: Less than two connections to node t89_10.  This node is used by rf_f89_9.
+WARNING: Less than two connections to node t90_0.  This node is used by rf_f90_0.
+WARNING: Less than two connections to node t90_10.  This node is used by rf_f90_9.
+WARNING: Less than two connections to node t91_0.  This node is used by rf_f91_0.
+WARNING: Less than two connections to node t91_10.  This node is used by rf_f91_9.
+WARNING: Less than two connections to node t92_0.  This node is used by rf_f92_0.
+WARNING: Less than two connections to node t92_10.  This node is used by rf_f92_9.
+WARNING: Less than two connections to node t93_0.  This node is used by rf_f93_0.
+WARNING: Less than two connections to node t93_10.  This node is used by rf_f93_9.
+WARNING: Less than two connections to node t94_0.  This node is used by rf_f94_0.
+WARNING: Less than two connections to node t94_10.  This node is used by rf_f94_9.
+WARNING: Less than two connections to node t95_0.  This node is used by rf_f95_0.
+WARNING: Less than two connections to node t95_10.  This node is used by rf_f95_9.
+WARNING: Less than two connections to node t96_0.  This node is used by rf_f96_0.
+WARNING: Less than two connections to node t96_10.  This node is used by rf_f96_9.
+WARNING: Less than two connections to node t97_0.  This node is used by rf_f97_0.
+WARNING: Less than two connections to node t97_10.  This node is used by rf_f97_9.
+WARNING: Less than two connections to node t98_0.  This node is used by rf_f98_0.
+WARNING: Less than two connections to node t98_10.  This node is used by rf_f98_9.
+WARNING: Less than two connections to node t99_0.  This node is used by rf_f99_0.
+WARNING: Less than two connections to node t99_10.  This node is used by rf_f99_9.
+WARNING: Less than two connections to node t100_0.  This node is used by rf_f100_0.
+WARNING: Less than two connections to node t100_10.  This node is used by rf_f100_9.
+WARNING: Less than two connections to node t101_0.  This node is used by rf_f101_0.
+WARNING: Less than two connections to node t101_10.  This node is used by rf_f101_9.
+WARNING: Less than two connections to node t102_0.  This node is used by rf_f102_0.
+WARNING: Less than two connections to node t102_10.  This node is used by rf_f102_9.
+WARNING: Less than two connections to node t103_0.  This node is used by rf_f103_0.
+WARNING: Less than two connections to node t103_10.  This node is used by rf_f103_9.
+WARNING: Less than two connections to node t104_0.  This node is used by rf_f104_0.
+WARNING: Less than two connections to node t104_10.  This node is used by rf_f104_9.
+WARNING: Less than two connections to node t105_0.  This node is used by rf_f105_0.
+WARNING: Less than two connections to node t105_10.  This node is used by rf_f105_9.
+WARNING: Less than two connections to node t106_0.  This node is used by rf_f106_0.
+WARNING: Less than two connections to node t106_10.  This node is used by rf_f106_9.
+WARNING: Less than two connections to node t107_0.  This node is used by rf_f107_0.
+WARNING: Less than two connections to node t107_10.  This node is used by rf_f107_9.
+WARNING: Less than two connections to node t108_0.  This node is used by rf_f108_0.
+WARNING: Less than two connections to node t108_10.  This node is used by rf_f108_9.
+WARNING: Less than two connections to node t109_0.  This node is used by rf_f109_0.
+WARNING: Less than two connections to node t109_10.  This node is used by rf_f109_9.
+WARNING: Less than two connections to node t110_0.  This node is used by rf_f110_0.
+WARNING: Less than two connections to node t110_10.  This node is used by rf_f110_9.
+WARNING: Less than two connections to node t111_0.  This node is used by rf_f111_0.
+WARNING: Less than two connections to node t111_10.  This node is used by rf_f111_9.
+WARNING: Less than two connections to node t112_0.  This node is used by rf_f112_0.
+WARNING: Less than two connections to node t112_10.  This node is used by rf_f112_9.
+WARNING: Less than two connections to node t113_0.  This node is used by rf_f113_0.
+WARNING: Less than two connections to node t113_10.  This node is used by rf_f113_9.
+WARNING: Less than two connections to node t114_0.  This node is used by rf_f114_0.
+WARNING: Less than two connections to node t114_10.  This node is used by rf_f114_9.
+WARNING: Less than two connections to node t115_0.  This node is used by rf_f115_0.
+WARNING: Less than two connections to node t115_10.  This node is used by rf_f115_9.
+WARNING: Less than two connections to node t116_0.  This node is used by rf_f116_0.
+WARNING: Less than two connections to node t116_10.  This node is used by rf_f116_9.
+WARNING: Less than two connections to node t117_0.  This node is used by rf_f117_0.
+WARNING: Less than two connections to node t117_10.  This node is used by rf_f117_9.
+WARNING: Less than two connections to node t118_0.  This node is used by rf_f118_0.
+WARNING: Less than two connections to node t118_10.  This node is used by rf_f118_9.
+WARNING: Less than two connections to node t119_0.  This node is used by rf_f119_0.
+WARNING: Less than two connections to node t119_10.  This node is used by rf_f119_9.
+WARNING: Less than two connections to node t120_0.  This node is used by rf_f120_0.
+WARNING: Less than two connections to node t120_10.  This node is used by rf_f120_9.
+WARNING: Less than two connections to node t0_1.  This node is used by rf_b0_1.
+WARNING: Less than two connections to node t121_1.  This node is used by rf_b120_1.
+WARNING: Less than two connections to node t0_2.  This node is used by rf_b0_2.
+WARNING: Less than two connections to node t121_2.  This node is used by rf_b120_2.
+WARNING: Less than two connections to node t0_3.  This node is used by rf_b0_3.
+WARNING: Less than two connections to node t121_3.  This node is used by rf_b120_3.
+WARNING: Less than two connections to node t0_4.  This node is used by rf_b0_4.
+WARNING: Less than two connections to node t121_4.  This node is used by rf_b120_4.
+WARNING: Less than two connections to node t0_5.  This node is used by rf_b0_5.
+WARNING: Less than two connections to node t121_5.  This node is used by rf_b120_5.
+WARNING: Less than two connections to node t0_6.  This node is used by rf_b0_6.
+WARNING: Less than two connections to node t121_6.  This node is used by rf_b120_6.
+WARNING: Less than two connections to node t0_7.  This node is used by rf_b0_7.
+WARNING: Less than two connections to node t121_7.  This node is used by rf_b120_7.
+WARNING: Less than two connections to node t0_8.  This node is used by rf_b0_8.
+WARNING: Less than two connections to node t121_8.  This node is used by rf_b120_8.
+WARNING: Less than two connections to node t0_9.  This node is used by rf_b0_9.
+WARNING: Less than two connections to node t121_9.  This node is used by rf_b120_9.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 41.517 seconds.
+

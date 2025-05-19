@@ -1,0 +1,37 @@
+* C:\Users\ASUS\Desktop\Semesters\Sem 8\BTP\Simulation\FI_MV_with_FEM\IVTesterFullCircuit - FIMV.asc
+Vset N002 0 0.01
+V2 N001 N005 5
+R3 Rsense+ 0 0.2
+M1 N001 N004 Rsense+ Rsense+ IRLHM630
+XU1 N002 Rsense+ V++ V-- N003 LT1001
+V3 V++ 0 12
+V4 V-- 0 -12
+R4 N003 0 10k
+R5 N004 N003 100
+R1 Imeas N009 32k
+C1 Imeas 0 330n
+R2 N011 0 4.7k
+R6 0 N007 10k
+R7 N009 N011 10k
+XU2 N007 N011 V++ V-- N009 AD746
+R8 N007 Rsense+ 4.7k
+R9 VMeas N008 32k
+C2 VMeas 0 330n
+R10 N010 VCell- 470
+R11 0 N006 470
+R12 N008 N010 470
+XU4 N006 N010 V++ V-- N008 AD746
+R13 N006 VCell+ 470
+XU3 0 N005 VCell- VCell+ solarcell
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\ASUS\AppData\Local\LTspice\lib\cmp\standard.mos
+.dc Vset 0 2.3 0.001
+;temp 25 30 35
+* Current Measurement Circuit
+* Voltage Measurement Circuit
+.include solarcell.sub
+.lib ADI1.lib
+.lib LTC.lib
+.backanno
+.end

@@ -1,0 +1,24 @@
+Tasks for v6:
+1) The version should have an automated method to make a combined netlist for solarcell with measurement circuit
+
+2) The circuit will be tested with `Finite` models and simulated with differential probing by the staff... He said I have to do it with his file
+
+2) Put real parameters for busbar, finger and cell currents for 9x9 in LTspice and Python
+
+2) Check the circuitry of Spice for measurement ckt
+
+3) Have to create LTspice sub ckt for isolated back contact from the old version of LTspice
+
+4) Create 5 back contact config to see if there is any observable change
+
+
+x) Replicate the FF results of Fraunhofer with top contact for paper
+
+
+Hardware:
+1) Check the XIAO board	--> power supply to the board
+		       	--> connectivity
+2) ADS1115 test
+3) MPC3745 test
+Claim: the modules works when connected separately but not together in one I2C bus with different addresses
+[WORKED] - Issue was with the capacitance of Breadboard

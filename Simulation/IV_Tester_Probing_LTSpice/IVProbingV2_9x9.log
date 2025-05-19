@@ -1,0 +1,5 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\ASUS\Desktop\Semesters\Sem 8\BTP\Simulation\IV_Tester_Probing_LTSpice\IVProbingV2_9x9.asc
+Start Time: Tue Apr  1 12:39:44 2025
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "ivtopelement" and instance: "xx1"
+The instance has more connection terminals than the definition.

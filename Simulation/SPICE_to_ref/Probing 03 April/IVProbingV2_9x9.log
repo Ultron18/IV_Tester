@@ -1,0 +1,120 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\ASUS\Desktop\Semesters\Sem 8\BTP\Simulation\SPICE_to_ref\Probing 03 April\IVProbingV2_9x9.asc
+Start Time: Wed Apr 16 22:31:46 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node N393 is floating.
+WARNING: Node N396 is floating.
+WARNING: Node N394 is floating.
+WARNING: Node N395 is floating.
+
+WARNING: Less than two connections to node nc_03.  This node is used by r:x1:1.
+WARNING: Less than two connections to node nc_04.  This node is used by r:x2:3.
+WARNING: Less than two connections to node nc_07.  This node is used by r:x4:1.
+WARNING: Less than two connections to node nc_10.  This node is used by r:x5:1.
+WARNING: Less than two connections to node nc_23.  This node is used by r:x22:1.
+WARNING: Less than two connections to node nc_24.  This node is used by r:x22:3.
+WARNING: Less than two connections to node nc_25.  This node is used by r:x23:1.
+WARNING: Less than two connections to node nc_26.  This node is used by r:x24:1.
+WARNING: Less than two connections to node nc_27.  This node is used by r:x25:3.
+WARNING: Less than two connections to node n399.  This node is used by r19.
+WARNING: Less than two connections to node n393.  This node is used by r19.
+WARNING: Less than two connections to node n397.  This node is used by r24.
+WARNING: Less than two connections to node n398.  This node is used by r25.
+WARNING: Less than two connections to node n402.  This node is used by r26.
+WARNING: Less than two connections to node n396.  This node is used by r26.
+WARNING: Less than two connections to node n403.  This node is used by r27.
+WARNING: Less than two connections to node n404.  This node is used by r28.
+WARNING: Less than two connections to node n400.  This node is used by r29.
+WARNING: Less than two connections to node n394.  This node is used by r29.
+WARNING: Less than two connections to node nc_28.  This node is used by r30.
+WARNING: Less than two connections to node n401.  This node is used by r31.
+WARNING: Less than two connections to node n395.  This node is used by r31.
+WARNING: Less than two connections to node nc_29.  This node is used by r:x40:1.
+WARNING: Less than two connections to node nc_30.  This node is used by r:x41:1.
+WARNING: Less than two connections to node nc_31.  This node is used by r:x42:1.
+WARNING: Less than two connections to node nc_32.  This node is used by r:x48:4.
+WARNING: Less than two connections to node nc_33.  This node is used by r:x49:1.
+WARNING: Less than two connections to node nc_34.  This node is used by r:x50:1.
+WARNING: Less than two connections to node nc_35.  This node is used by r:x51:1.
+WARNING: Less than two connections to node nc_36.  This node is used by r:x51:4.
+WARNING: Less than two connections to node nc_37.  This node is used by r:x54:4.
+WARNING: Less than two connections to node nc_38.  This node is used by r:x55:3.
+WARNING: Less than two connections to node nc_39.  This node is used by r:x58:3.
+WARNING: Less than two connections to node nc_40.  This node is used by r:x61:3.
+WARNING: Less than two connections to node nc_41.  This node is used by r:x75:4.
+WARNING: Less than two connections to node nc_42.  This node is used by r:x78:4.
+WARNING: Less than two connections to node nc_43.  This node is used by r:x81:4.
+WARNING: Less than two connections to node nc_44.  This node is used by r:x82:3.
+WARNING: Less than two connections to node nc_45.  This node is used by r:x85:3.
+WARNING: Less than two connections to node nc_47.  This node is used by r:x88:2.
+WARNING: Less than two connections to node nc_46.  This node is used by r:x88:3.
+WARNING: Less than two connections to node nc_48.  This node is used by r:x89:2.
+WARNING: Less than two connections to node nc_49.  This node is used by r:x90:2.
+WARNING: Less than two connections to node nc_50.  This node is used by r:x97:2.
+WARNING: Less than two connections to node nc_51.  This node is used by r:x99:2.
+WARNING: Less than two connections to node nc_52.  This node is used by r:x102:4.
+WARNING: Less than two connections to node nc_53.  This node is used by r:x105:4.
+WARNING: Less than two connections to node nc_54.  This node is used by r:x106:2.
+WARNING: Less than two connections to node nc_55.  This node is used by r:x107:2.
+WARNING: Less than two connections to node nc_56.  This node is used by r:x108:2.
+WARNING: Less than two connections to node nc_57.  This node is used by r:x108:4.
+WARNING: Less than two connections to node nc_60.  This node is used by r:x181:1.
+WARNING: Less than two connections to node nc_63.  This node is used by r:x182:1.
+WARNING: Less than two connections to node nc_66.  This node is used by r:x183:1.
+WARNING: Less than two connections to node nc_67.  This node is used by r:x183:4.
+WARNING: Less than two connections to node nc_74.  This node is used by r:x186:4.
+WARNING: Less than two connections to node nc_81.  This node is used by r:x189:4.
+WARNING: Less than two connections to node nc_84.  This node is used by r:x190:1.
+WARNING: Less than two connections to node nc_85.  This node is used by r:x190:3.
+WARNING: Less than two connections to node nc_88.  This node is used by r:x191:1.
+WARNING: Less than two connections to node nc_91.  This node is used by r:x192:1.
+WARNING: Less than two connections to node nc_94.  This node is used by r:x193:3.
+WARNING: Less than two connections to node nc_101.  This node is used by r:x196:3.
+WARNING: Less than two connections to node nc_139.  This node is used by r:x210:4.
+WARNING: Less than two connections to node nc_146.  This node is used by r:x213:4.
+WARNING: Less than two connections to node nc_156.  This node is used by r:x216:4.
+WARNING: Less than two connections to node nc_160.  This node is used by r:x217:3.
+WARNING: Less than two connections to node nc_169.  This node is used by r:x220:3.
+WARNING: Less than two connections to node nc_177.  This node is used by r:x223:3.
+WARNING: Less than two connections to node nc_198.  This node is used by r:x232:2.
+WARNING: Less than two connections to node nc_201.  This node is used by r:x233:2.
+WARNING: Less than two connections to node nc_204.  This node is used by r:x234:2.
+WARNING: Less than two connections to node nc_211.  This node is used by r:x237:4.
+WARNING: Less than two connections to node nc_218.  This node is used by r:x240:4.
+WARNING: Less than two connections to node nc_221.  This node is used by r:x241:2.
+WARNING: Less than two connections to node nc_224.  This node is used by r:x242:2.
+WARNING: Less than two connections to node nc_227.  This node is used by r:x243:2.
+WARNING: Less than two connections to node nc_228.  This node is used by r:x243:4.
+WARNING: Less than two connections to node nc_231.  This node is used by r:x244:3.
+WARNING: Less than two connections to node nc_238.  This node is used by r:x247:3.
+WARNING: Less than two connections to node nc_246.  This node is used by r:x250:2.
+WARNING: Less than two connections to node nc_245.  This node is used by r:x250:3.
+WARNING: Less than two connections to node nc_249.  This node is used by r:x251:2.
+WARNING: Less than two connections to node nc_252.  This node is used by r:x252:2.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.941 seconds.
+

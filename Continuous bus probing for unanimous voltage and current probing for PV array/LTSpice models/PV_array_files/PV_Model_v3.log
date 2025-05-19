@@ -1,0 +1,500 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\ASUS\Desktop\Semesters\Sem 7\BTP\Continuous bus probing for unanimous voltage and current probing for PV array\LTSpice models\PV_array_files\PV_Model_v3.asc
+Start Time: Sun Nov 17 23:08:23 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node X226:NC_02 is floating.
+WARNING: Node X226:NC_04 is floating.
+WARNING: Node X227:NC_02 is floating.
+WARNING: Node X227:NC_04 is floating.
+WARNING: Node X228:NC_02 is floating.
+WARNING: Node X228:NC_04 is floating.
+WARNING: Node X229:NC_02 is floating.
+WARNING: Node X229:NC_04 is floating.
+WARNING: Node X230:NC_02 is floating.
+WARNING: Node X230:NC_04 is floating.
+WARNING: Node X231:NC_02 is floating.
+WARNING: Node X231:NC_04 is floating.
+WARNING: Node X232:NC_02 is floating.
+WARNING: Node X232:NC_04 is floating.
+WARNING: Node X233:NC_02 is floating.
+WARNING: Node X233:NC_04 is floating.
+WARNING: Node X234:NC_02 is floating.
+WARNING: Node X234:NC_04 is floating.
+WARNING: Node X235:NC_02 is floating.
+WARNING: Node X235:NC_04 is floating.
+WARNING: Node X236:NC_02 is floating.
+WARNING: Node X236:NC_04 is floating.
+WARNING: Node X237:NC_02 is floating.
+WARNING: Node X237:NC_04 is floating.
+WARNING: Node X238:NC_02 is floating.
+WARNING: Node X238:NC_04 is floating.
+WARNING: Node X239:NC_02 is floating.
+WARNING: Node X239:NC_04 is floating.
+WARNING: Node X240:NC_02 is floating.
+WARNING: Node X240:NC_04 is floating.
+WARNING: Node X241:NC_02 is floating.
+WARNING: Node X241:NC_04 is floating.
+WARNING: Node X242:NC_02 is floating.
+WARNING: Node X242:NC_04 is floating.
+WARNING: Node X243:NC_02 is floating.
+WARNING: Node X243:NC_04 is floating.
+WARNING: Node X244:NC_02 is floating.
+WARNING: Node X244:NC_04 is floating.
+WARNING: Node X245:NC_02 is floating.
+WARNING: Node X245:NC_04 is floating.
+WARNING: Node X246:NC_02 is floating.
+WARNING: Node X246:NC_04 is floating.
+WARNING: Node X247:NC_02 is floating.
+WARNING: Node X247:NC_04 is floating.
+WARNING: Node X248:NC_02 is floating.
+WARNING: Node X248:NC_04 is floating.
+WARNING: Node X249:NC_02 is floating.
+WARNING: Node X249:NC_04 is floating.
+WARNING: Node X250:NC_02 is floating.
+WARNING: Node X250:NC_04 is floating.
+WARNING: Node X251:NC_02 is floating.
+WARNING: Node X251:NC_04 is floating.
+WARNING: Node X252:NC_02 is floating.
+WARNING: Node X252:NC_04 is floating.
+WARNING: Node X253:NC_02 is floating.
+WARNING: Node X253:NC_04 is floating.
+WARNING: Node X254:NC_02 is floating.
+WARNING: Node X254:NC_04 is floating.
+WARNING: Node X255:NC_02 is floating.
+WARNING: Node X255:NC_04 is floating.
+WARNING: Node X256:NC_02 is floating.
+WARNING: Node X256:NC_04 is floating.
+WARNING: Node X257:NC_02 is floating.
+WARNING: Node X257:NC_04 is floating.
+WARNING: Node X258:NC_02 is floating.
+WARNING: Node X258:NC_04 is floating.
+WARNING: Node X259:NC_02 is floating.
+WARNING: Node X259:NC_04 is floating.
+WARNING: Node X260:NC_02 is floating.
+WARNING: Node X260:NC_04 is floating.
+WARNING: Node X261:NC_02 is floating.
+WARNING: Node X261:NC_04 is floating.
+WARNING: Node X262:NC_02 is floating.
+WARNING: Node X262:NC_04 is floating.
+WARNING: Node X263:NC_02 is floating.
+WARNING: Node X263:NC_04 is floating.
+WARNING: Node X264:NC_02 is floating.
+WARNING: Node X264:NC_04 is floating.
+WARNING: Node X265:NC_02 is floating.
+WARNING: Node X265:NC_04 is floating.
+WARNING: Node X266:NC_02 is floating.
+WARNING: Node X266:NC_04 is floating.
+WARNING: Node X267:NC_02 is floating.
+WARNING: Node X267:NC_04 is floating.
+WARNING: Node X268:NC_02 is floating.
+WARNING: Node X268:NC_04 is floating.
+WARNING: Node X269:NC_02 is floating.
+WARNING: Node X269:NC_04 is floating.
+WARNING: Node X270:NC_02 is floating.
+WARNING: Node X270:NC_04 is floating.
+WARNING: Node X271:NC_02 is floating.
+WARNING: Node X271:NC_04 is floating.
+WARNING: Node X272:NC_02 is floating.
+WARNING: Node X272:NC_04 is floating.
+WARNING: Node X273:NC_02 is floating.
+WARNING: Node X273:NC_04 is floating.
+WARNING: Node X274:NC_02 is floating.
+WARNING: Node X274:NC_04 is floating.
+WARNING: Node X275:NC_02 is floating.
+WARNING: Node X275:NC_04 is floating.
+WARNING: Node X276:NC_02 is floating.
+WARNING: Node X276:NC_04 is floating.
+WARNING: Node X277:NC_02 is floating.
+WARNING: Node X277:NC_04 is floating.
+WARNING: Node X278:NC_02 is floating.
+WARNING: Node X278:NC_04 is floating.
+WARNING: Node X279:NC_02 is floating.
+WARNING: Node X279:NC_04 is floating.
+WARNING: Node X280:NC_02 is floating.
+WARNING: Node X280:NC_04 is floating.
+WARNING: Node X281:NC_02 is floating.
+WARNING: Node X281:NC_04 is floating.
+WARNING: Node X282:NC_02 is floating.
+WARNING: Node X282:NC_04 is floating.
+WARNING: Node X283:NC_02 is floating.
+WARNING: Node X283:NC_04 is floating.
+WARNING: Node X284:NC_02 is floating.
+WARNING: Node X284:NC_04 is floating.
+WARNING: Node X285:NC_02 is floating.
+WARNING: Node X285:NC_04 is floating.
+WARNING: Node X286:NC_02 is floating.
+WARNING: Node X286:NC_04 is floating.
+WARNING: Node X287:NC_02 is floating.
+WARNING: Node X287:NC_04 is floating.
+WARNING: Node X288:NC_02 is floating.
+WARNING: Node X288:NC_04 is floating.
+WARNING: Node X289:NC_02 is floating.
+WARNING: Node X289:NC_04 is floating.
+WARNING: Node X290:NC_02 is floating.
+WARNING: Node X290:NC_04 is floating.
+WARNING: Node X291:NC_02 is floating.
+WARNING: Node X291:NC_04 is floating.
+WARNING: Node X292:NC_02 is floating.
+WARNING: Node X292:NC_04 is floating.
+WARNING: Node X293:NC_02 is floating.
+WARNING: Node X293:NC_04 is floating.
+WARNING: Node X294:NC_02 is floating.
+WARNING: Node X294:NC_04 is floating.
+WARNING: Node X295:NC_02 is floating.
+WARNING: Node X295:NC_04 is floating.
+WARNING: Node X296:NC_02 is floating.
+WARNING: Node X296:NC_04 is floating.
+WARNING: Node X297:NC_02 is floating.
+WARNING: Node X297:NC_04 is floating.
+WARNING: Node X298:NC_02 is floating.
+WARNING: Node X298:NC_04 is floating.
+WARNING: Node X299:NC_02 is floating.
+WARNING: Node X299:NC_04 is floating.
+WARNING: Node X300:NC_02 is floating.
+WARNING: Node X300:NC_04 is floating.
+WARNING: Node X301:NC_02 is floating.
+WARNING: Node X301:NC_04 is floating.
+WARNING: Node X302:NC_02 is floating.
+WARNING: Node X302:NC_04 is floating.
+WARNING: Node X303:NC_02 is floating.
+WARNING: Node X303:NC_04 is floating.
+WARNING: Node X304:NC_02 is floating.
+WARNING: Node X304:NC_04 is floating.
+WARNING: Node X305:NC_02 is floating.
+WARNING: Node X305:NC_04 is floating.
+WARNING: Node X306:NC_02 is floating.
+WARNING: Node X306:NC_04 is floating.
+
+WARNING: Less than two connections to node nc_01.  This node is used by r:x2:4.
+WARNING: Less than two connections to node n118.  This node is used by r:x25:1.
+WARNING: Less than two connections to node x226:nc_01.  This node is used by d:x226:1.
+WARNING: Less than two connections to node x226:nc_02.  This node is used by d:x226:1.
+WARNING: Less than two connections to node x226:nc_03.  This node is used by d:x226:2.
+WARNING: Less than two connections to node x226:nc_04.  This node is used by d:x226:2.
+WARNING: Less than two connections to node x227:nc_01.  This node is used by d:x227:1.
+WARNING: Less than two connections to node x227:nc_02.  This node is used by d:x227:1.
+WARNING: Less than two connections to node x227:nc_03.  This node is used by d:x227:2.
+WARNING: Less than two connections to node x227:nc_04.  This node is used by d:x227:2.
+WARNING: Less than two connections to node x228:nc_01.  This node is used by d:x228:1.
+WARNING: Less than two connections to node x228:nc_02.  This node is used by d:x228:1.
+WARNING: Less than two connections to node x228:nc_03.  This node is used by d:x228:2.
+WARNING: Less than two connections to node x228:nc_04.  This node is used by d:x228:2.
+WARNING: Less than two connections to node x229:nc_01.  This node is used by d:x229:1.
+WARNING: Less than two connections to node x229:nc_02.  This node is used by d:x229:1.
+WARNING: Less than two connections to node x229:nc_03.  This node is used by d:x229:2.
+WARNING: Less than two connections to node x229:nc_04.  This node is used by d:x229:2.
+WARNING: Less than two connections to node x230:nc_01.  This node is used by d:x230:1.
+WARNING: Less than two connections to node x230:nc_02.  This node is used by d:x230:1.
+WARNING: Less than two connections to node x230:nc_03.  This node is used by d:x230:2.
+WARNING: Less than two connections to node x230:nc_04.  This node is used by d:x230:2.
+WARNING: Less than two connections to node x231:nc_01.  This node is used by d:x231:1.
+WARNING: Less than two connections to node x231:nc_02.  This node is used by d:x231:1.
+WARNING: Less than two connections to node x231:nc_03.  This node is used by d:x231:2.
+WARNING: Less than two connections to node x231:nc_04.  This node is used by d:x231:2.
+WARNING: Less than two connections to node x232:nc_01.  This node is used by d:x232:1.
+WARNING: Less than two connections to node x232:nc_02.  This node is used by d:x232:1.
+WARNING: Less than two connections to node x232:nc_03.  This node is used by d:x232:2.
+WARNING: Less than two connections to node x232:nc_04.  This node is used by d:x232:2.
+WARNING: Less than two connections to node x233:nc_01.  This node is used by d:x233:1.
+WARNING: Less than two connections to node x233:nc_02.  This node is used by d:x233:1.
+WARNING: Less than two connections to node x233:nc_03.  This node is used by d:x233:2.
+WARNING: Less than two connections to node x233:nc_04.  This node is used by d:x233:2.
+WARNING: Less than two connections to node x234:nc_01.  This node is used by d:x234:1.
+WARNING: Less than two connections to node x234:nc_02.  This node is used by d:x234:1.
+WARNING: Less than two connections to node x234:nc_03.  This node is used by d:x234:2.
+WARNING: Less than two connections to node x234:nc_04.  This node is used by d:x234:2.
+WARNING: Less than two connections to node x235:nc_01.  This node is used by d:x235:1.
+WARNING: Less than two connections to node x235:nc_02.  This node is used by d:x235:1.
+WARNING: Less than two connections to node x235:nc_03.  This node is used by d:x235:2.
+WARNING: Less than two connections to node x235:nc_04.  This node is used by d:x235:2.
+WARNING: Less than two connections to node x236:nc_01.  This node is used by d:x236:1.
+WARNING: Less than two connections to node x236:nc_02.  This node is used by d:x236:1.
+WARNING: Less than two connections to node x236:nc_03.  This node is used by d:x236:2.
+WARNING: Less than two connections to node x236:nc_04.  This node is used by d:x236:2.
+WARNING: Less than two connections to node x237:nc_01.  This node is used by d:x237:1.
+WARNING: Less than two connections to node x237:nc_02.  This node is used by d:x237:1.
+WARNING: Less than two connections to node x237:nc_03.  This node is used by d:x237:2.
+WARNING: Less than two connections to node x237:nc_04.  This node is used by d:x237:2.
+WARNING: Less than two connections to node x238:nc_01.  This node is used by d:x238:1.
+WARNING: Less than two connections to node x238:nc_02.  This node is used by d:x238:1.
+WARNING: Less than two connections to node x238:nc_03.  This node is used by d:x238:2.
+WARNING: Less than two connections to node x238:nc_04.  This node is used by d:x238:2.
+WARNING: Less than two connections to node x239:nc_01.  This node is used by d:x239:1.
+WARNING: Less than two connections to node x239:nc_02.  This node is used by d:x239:1.
+WARNING: Less than two connections to node x239:nc_03.  This node is used by d:x239:2.
+WARNING: Less than two connections to node x239:nc_04.  This node is used by d:x239:2.
+WARNING: Less than two connections to node x240:nc_01.  This node is used by d:x240:1.
+WARNING: Less than two connections to node x240:nc_02.  This node is used by d:x240:1.
+WARNING: Less than two connections to node x240:nc_03.  This node is used by d:x240:2.
+WARNING: Less than two connections to node x240:nc_04.  This node is used by d:x240:2.
+WARNING: Less than two connections to node x241:nc_01.  This node is used by d:x241:1.
+WARNING: Less than two connections to node x241:nc_02.  This node is used by d:x241:1.
+WARNING: Less than two connections to node x241:nc_03.  This node is used by d:x241:2.
+WARNING: Less than two connections to node x241:nc_04.  This node is used by d:x241:2.
+WARNING: Less than two connections to node x242:nc_01.  This node is used by d:x242:1.
+WARNING: Less than two connections to node x242:nc_02.  This node is used by d:x242:1.
+WARNING: Less than two connections to node x242:nc_03.  This node is used by d:x242:2.
+WARNING: Less than two connections to node x242:nc_04.  This node is used by d:x242:2.
+WARNING: Less than two connections to node x243:nc_01.  This node is used by d:x243:1.
+WARNING: Less than two connections to node x243:nc_02.  This node is used by d:x243:1.
+WARNING: Less than two connections to node x243:nc_03.  This node is used by d:x243:2.
+WARNING: Less than two connections to node x243:nc_04.  This node is used by d:x243:2.
+WARNING: Less than two connections to node x244:nc_01.  This node is used by d:x244:1.
+WARNING: Less than two connections to node x244:nc_02.  This node is used by d:x244:1.
+WARNING: Less than two connections to node x244:nc_03.  This node is used by d:x244:2.
+WARNING: Less than two connections to node x244:nc_04.  This node is used by d:x244:2.
+WARNING: Less than two connections to node x245:nc_01.  This node is used by d:x245:1.
+WARNING: Less than two connections to node x245:nc_02.  This node is used by d:x245:1.
+WARNING: Less than two connections to node x245:nc_03.  This node is used by d:x245:2.
+WARNING: Less than two connections to node x245:nc_04.  This node is used by d:x245:2.
+WARNING: Less than two connections to node x246:nc_01.  This node is used by d:x246:1.
+WARNING: Less than two connections to node x246:nc_02.  This node is used by d:x246:1.
+WARNING: Less than two connections to node x246:nc_03.  This node is used by d:x246:2.
+WARNING: Less than two connections to node x246:nc_04.  This node is used by d:x246:2.
+WARNING: Less than two connections to node x247:nc_01.  This node is used by d:x247:1.
+WARNING: Less than two connections to node x247:nc_02.  This node is used by d:x247:1.
+WARNING: Less than two connections to node x247:nc_03.  This node is used by d:x247:2.
+WARNING: Less than two connections to node x247:nc_04.  This node is used by d:x247:2.
+WARNING: Less than two connections to node x248:nc_01.  This node is used by d:x248:1.
+WARNING: Less than two connections to node x248:nc_02.  This node is used by d:x248:1.
+WARNING: Less than two connections to node x248:nc_03.  This node is used by d:x248:2.
+WARNING: Less than two connections to node x248:nc_04.  This node is used by d:x248:2.
+WARNING: Less than two connections to node x249:nc_01.  This node is used by d:x249:1.
+WARNING: Less than two connections to node x249:nc_02.  This node is used by d:x249:1.
+WARNING: Less than two connections to node x249:nc_03.  This node is used by d:x249:2.
+WARNING: Less than two connections to node x249:nc_04.  This node is used by d:x249:2.
+WARNING: Less than two connections to node x250:nc_01.  This node is used by d:x250:1.
+WARNING: Less than two connections to node x250:nc_02.  This node is used by d:x250:1.
+WARNING: Less than two connections to node x250:nc_03.  This node is used by d:x250:2.
+WARNING: Less than two connections to node x250:nc_04.  This node is used by d:x250:2.
+WARNING: Less than two connections to node x251:nc_01.  This node is used by d:x251:1.
+WARNING: Less than two connections to node x251:nc_02.  This node is used by d:x251:1.
+WARNING: Less than two connections to node x251:nc_03.  This node is used by d:x251:2.
+WARNING: Less than two connections to node x251:nc_04.  This node is used by d:x251:2.
+WARNING: Less than two connections to node x252:nc_01.  This node is used by d:x252:1.
+WARNING: Less than two connections to node x252:nc_02.  This node is used by d:x252:1.
+WARNING: Less than two connections to node x252:nc_03.  This node is used by d:x252:2.
+WARNING: Less than two connections to node x252:nc_04.  This node is used by d:x252:2.
+WARNING: Less than two connections to node x253:nc_01.  This node is used by d:x253:1.
+WARNING: Less than two connections to node x253:nc_02.  This node is used by d:x253:1.
+WARNING: Less than two connections to node x253:nc_03.  This node is used by d:x253:2.
+WARNING: Less than two connections to node x253:nc_04.  This node is used by d:x253:2.
+WARNING: Less than two connections to node x254:nc_01.  This node is used by d:x254:1.
+WARNING: Less than two connections to node x254:nc_02.  This node is used by d:x254:1.
+WARNING: Less than two connections to node x254:nc_03.  This node is used by d:x254:2.
+WARNING: Less than two connections to node x254:nc_04.  This node is used by d:x254:2.
+WARNING: Less than two connections to node x255:nc_01.  This node is used by d:x255:1.
+WARNING: Less than two connections to node x255:nc_02.  This node is used by d:x255:1.
+WARNING: Less than two connections to node x255:nc_03.  This node is used by d:x255:2.
+WARNING: Less than two connections to node x255:nc_04.  This node is used by d:x255:2.
+WARNING: Less than two connections to node x256:nc_01.  This node is used by d:x256:1.
+WARNING: Less than two connections to node x256:nc_02.  This node is used by d:x256:1.
+WARNING: Less than two connections to node x256:nc_03.  This node is used by d:x256:2.
+WARNING: Less than two connections to node x256:nc_04.  This node is used by d:x256:2.
+WARNING: Less than two connections to node x257:nc_01.  This node is used by d:x257:1.
+WARNING: Less than two connections to node x257:nc_02.  This node is used by d:x257:1.
+WARNING: Less than two connections to node x257:nc_03.  This node is used by d:x257:2.
+WARNING: Less than two connections to node x257:nc_04.  This node is used by d:x257:2.
+WARNING: Less than two connections to node x258:nc_01.  This node is used by d:x258:1.
+WARNING: Less than two connections to node x258:nc_02.  This node is used by d:x258:1.
+WARNING: Less than two connections to node x258:nc_03.  This node is used by d:x258:2.
+WARNING: Less than two connections to node x258:nc_04.  This node is used by d:x258:2.
+WARNING: Less than two connections to node x259:nc_01.  This node is used by d:x259:1.
+WARNING: Less than two connections to node x259:nc_02.  This node is used by d:x259:1.
+WARNING: Less than two connections to node x259:nc_03.  This node is used by d:x259:2.
+WARNING: Less than two connections to node x259:nc_04.  This node is used by d:x259:2.
+WARNING: Less than two connections to node x260:nc_01.  This node is used by d:x260:1.
+WARNING: Less than two connections to node x260:nc_02.  This node is used by d:x260:1.
+WARNING: Less than two connections to node x260:nc_03.  This node is used by d:x260:2.
+WARNING: Less than two connections to node x260:nc_04.  This node is used by d:x260:2.
+WARNING: Less than two connections to node x261:nc_01.  This node is used by d:x261:1.
+WARNING: Less than two connections to node x261:nc_02.  This node is used by d:x261:1.
+WARNING: Less than two connections to node x261:nc_03.  This node is used by d:x261:2.
+WARNING: Less than two connections to node x261:nc_04.  This node is used by d:x261:2.
+WARNING: Less than two connections to node x262:nc_01.  This node is used by d:x262:1.
+WARNING: Less than two connections to node x262:nc_02.  This node is used by d:x262:1.
+WARNING: Less than two connections to node x262:nc_03.  This node is used by d:x262:2.
+WARNING: Less than two connections to node x262:nc_04.  This node is used by d:x262:2.
+WARNING: Less than two connections to node x263:nc_01.  This node is used by d:x263:1.
+WARNING: Less than two connections to node x263:nc_02.  This node is used by d:x263:1.
+WARNING: Less than two connections to node x263:nc_03.  This node is used by d:x263:2.
+WARNING: Less than two connections to node x263:nc_04.  This node is used by d:x263:2.
+WARNING: Less than two connections to node x264:nc_01.  This node is used by d:x264:1.
+WARNING: Less than two connections to node x264:nc_02.  This node is used by d:x264:1.
+WARNING: Less than two connections to node x264:nc_03.  This node is used by d:x264:2.
+WARNING: Less than two connections to node x264:nc_04.  This node is used by d:x264:2.
+WARNING: Less than two connections to node x265:nc_01.  This node is used by d:x265:1.
+WARNING: Less than two connections to node x265:nc_02.  This node is used by d:x265:1.
+WARNING: Less than two connections to node x265:nc_03.  This node is used by d:x265:2.
+WARNING: Less than two connections to node x265:nc_04.  This node is used by d:x265:2.
+WARNING: Less than two connections to node x266:nc_01.  This node is used by d:x266:1.
+WARNING: Less than two connections to node x266:nc_02.  This node is used by d:x266:1.
+WARNING: Less than two connections to node x266:nc_03.  This node is used by d:x266:2.
+WARNING: Less than two connections to node x266:nc_04.  This node is used by d:x266:2.
+WARNING: Less than two connections to node x267:nc_01.  This node is used by d:x267:1.
+WARNING: Less than two connections to node x267:nc_02.  This node is used by d:x267:1.
+WARNING: Less than two connections to node x267:nc_03.  This node is used by d:x267:2.
+WARNING: Less than two connections to node x267:nc_04.  This node is used by d:x267:2.
+WARNING: Less than two connections to node x268:nc_01.  This node is used by d:x268:1.
+WARNING: Less than two connections to node x268:nc_02.  This node is used by d:x268:1.
+WARNING: Less than two connections to node x268:nc_03.  This node is used by d:x268:2.
+WARNING: Less than two connections to node x268:nc_04.  This node is used by d:x268:2.
+WARNING: Less than two connections to node x269:nc_01.  This node is used by d:x269:1.
+WARNING: Less than two connections to node x269:nc_02.  This node is used by d:x269:1.
+WARNING: Less than two connections to node x269:nc_03.  This node is used by d:x269:2.
+WARNING: Less than two connections to node x269:nc_04.  This node is used by d:x269:2.
+WARNING: Less than two connections to node x270:nc_01.  This node is used by d:x270:1.
+WARNING: Less than two connections to node x270:nc_02.  This node is used by d:x270:1.
+WARNING: Less than two connections to node x270:nc_03.  This node is used by d:x270:2.
+WARNING: Less than two connections to node x270:nc_04.  This node is used by d:x270:2.
+WARNING: Less than two connections to node x271:nc_01.  This node is used by d:x271:1.
+WARNING: Less than two connections to node x271:nc_02.  This node is used by d:x271:1.
+WARNING: Less than two connections to node x271:nc_03.  This node is used by d:x271:2.
+WARNING: Less than two connections to node x271:nc_04.  This node is used by d:x271:2.
+WARNING: Less than two connections to node x272:nc_01.  This node is used by d:x272:1.
+WARNING: Less than two connections to node x272:nc_02.  This node is used by d:x272:1.
+WARNING: Less than two connections to node x272:nc_03.  This node is used by d:x272:2.
+WARNING: Less than two connections to node x272:nc_04.  This node is used by d:x272:2.
+WARNING: Less than two connections to node x273:nc_01.  This node is used by d:x273:1.
+WARNING: Less than two connections to node x273:nc_02.  This node is used by d:x273:1.
+WARNING: Less than two connections to node x273:nc_03.  This node is used by d:x273:2.
+WARNING: Less than two connections to node x273:nc_04.  This node is used by d:x273:2.
+WARNING: Less than two connections to node x274:nc_01.  This node is used by d:x274:1.
+WARNING: Less than two connections to node x274:nc_02.  This node is used by d:x274:1.
+WARNING: Less than two connections to node x274:nc_03.  This node is used by d:x274:2.
+WARNING: Less than two connections to node x274:nc_04.  This node is used by d:x274:2.
+WARNING: Less than two connections to node x275:nc_01.  This node is used by d:x275:1.
+WARNING: Less than two connections to node x275:nc_02.  This node is used by d:x275:1.
+WARNING: Less than two connections to node x275:nc_03.  This node is used by d:x275:2.
+WARNING: Less than two connections to node x275:nc_04.  This node is used by d:x275:2.
+WARNING: Less than two connections to node x276:nc_01.  This node is used by d:x276:1.
+WARNING: Less than two connections to node x276:nc_02.  This node is used by d:x276:1.
+WARNING: Less than two connections to node x276:nc_03.  This node is used by d:x276:2.
+WARNING: Less than two connections to node x276:nc_04.  This node is used by d:x276:2.
+WARNING: Less than two connections to node x277:nc_01.  This node is used by d:x277:1.
+WARNING: Less than two connections to node x277:nc_02.  This node is used by d:x277:1.
+WARNING: Less than two connections to node x277:nc_03.  This node is used by d:x277:2.
+WARNING: Less than two connections to node x277:nc_04.  This node is used by d:x277:2.
+WARNING: Less than two connections to node x278:nc_01.  This node is used by d:x278:1.
+WARNING: Less than two connections to node x278:nc_02.  This node is used by d:x278:1.
+WARNING: Less than two connections to node x278:nc_03.  This node is used by d:x278:2.
+WARNING: Less than two connections to node x278:nc_04.  This node is used by d:x278:2.
+WARNING: Less than two connections to node x279:nc_01.  This node is used by d:x279:1.
+WARNING: Less than two connections to node x279:nc_02.  This node is used by d:x279:1.
+WARNING: Less than two connections to node x279:nc_03.  This node is used by d:x279:2.
+WARNING: Less than two connections to node x279:nc_04.  This node is used by d:x279:2.
+WARNING: Less than two connections to node x280:nc_01.  This node is used by d:x280:1.
+WARNING: Less than two connections to node x280:nc_02.  This node is used by d:x280:1.
+WARNING: Less than two connections to node x280:nc_03.  This node is used by d:x280:2.
+WARNING: Less than two connections to node x280:nc_04.  This node is used by d:x280:2.
+WARNING: Less than two connections to node x281:nc_01.  This node is used by d:x281:1.
+WARNING: Less than two connections to node x281:nc_02.  This node is used by d:x281:1.
+WARNING: Less than two connections to node x281:nc_03.  This node is used by d:x281:2.
+WARNING: Less than two connections to node x281:nc_04.  This node is used by d:x281:2.
+WARNING: Less than two connections to node x282:nc_01.  This node is used by d:x282:1.
+WARNING: Less than two connections to node x282:nc_02.  This node is used by d:x282:1.
+WARNING: Less than two connections to node x282:nc_03.  This node is used by d:x282:2.
+WARNING: Less than two connections to node x282:nc_04.  This node is used by d:x282:2.
+WARNING: Less than two connections to node x283:nc_01.  This node is used by d:x283:1.
+WARNING: Less than two connections to node x283:nc_02.  This node is used by d:x283:1.
+WARNING: Less than two connections to node x283:nc_03.  This node is used by d:x283:2.
+WARNING: Less than two connections to node x283:nc_04.  This node is used by d:x283:2.
+WARNING: Less than two connections to node x284:nc_01.  This node is used by d:x284:1.
+WARNING: Less than two connections to node x284:nc_02.  This node is used by d:x284:1.
+WARNING: Less than two connections to node x284:nc_03.  This node is used by d:x284:2.
+WARNING: Less than two connections to node x284:nc_04.  This node is used by d:x284:2.
+WARNING: Less than two connections to node x285:nc_01.  This node is used by d:x285:1.
+WARNING: Less than two connections to node x285:nc_02.  This node is used by d:x285:1.
+WARNING: Less than two connections to node x285:nc_03.  This node is used by d:x285:2.
+WARNING: Less than two connections to node x285:nc_04.  This node is used by d:x285:2.
+WARNING: Less than two connections to node x286:nc_01.  This node is used by d:x286:1.
+WARNING: Less than two connections to node x286:nc_02.  This node is used by d:x286:1.
+WARNING: Less than two connections to node x286:nc_03.  This node is used by d:x286:2.
+WARNING: Less than two connections to node x286:nc_04.  This node is used by d:x286:2.
+WARNING: Less than two connections to node x287:nc_01.  This node is used by d:x287:1.
+WARNING: Less than two connections to node x287:nc_02.  This node is used by d:x287:1.
+WARNING: Less than two connections to node x287:nc_03.  This node is used by d:x287:2.
+WARNING: Less than two connections to node x287:nc_04.  This node is used by d:x287:2.
+WARNING: Less than two connections to node x288:nc_01.  This node is used by d:x288:1.
+WARNING: Less than two connections to node x288:nc_02.  This node is used by d:x288:1.
+WARNING: Less than two connections to node x288:nc_03.  This node is used by d:x288:2.
+WARNING: Less than two connections to node x288:nc_04.  This node is used by d:x288:2.
+WARNING: Less than two connections to node x289:nc_01.  This node is used by d:x289:1.
+WARNING: Less than two connections to node x289:nc_02.  This node is used by d:x289:1.
+WARNING: Less than two connections to node x289:nc_03.  This node is used by d:x289:2.
+WARNING: Less than two connections to node x289:nc_04.  This node is used by d:x289:2.
+WARNING: Less than two connections to node x290:nc_01.  This node is used by d:x290:1.
+WARNING: Less than two connections to node x290:nc_02.  This node is used by d:x290:1.
+WARNING: Less than two connections to node x290:nc_03.  This node is used by d:x290:2.
+WARNING: Less than two connections to node x290:nc_04.  This node is used by d:x290:2.
+WARNING: Less than two connections to node x291:nc_01.  This node is used by d:x291:1.
+WARNING: Less than two connections to node x291:nc_02.  This node is used by d:x291:1.
+WARNING: Less than two connections to node x291:nc_03.  This node is used by d:x291:2.
+WARNING: Less than two connections to node x291:nc_04.  This node is used by d:x291:2.
+WARNING: Less than two connections to node x292:nc_01.  This node is used by d:x292:1.
+WARNING: Less than two connections to node x292:nc_02.  This node is used by d:x292:1.
+WARNING: Less than two connections to node x292:nc_03.  This node is used by d:x292:2.
+WARNING: Less than two connections to node x292:nc_04.  This node is used by d:x292:2.
+WARNING: Less than two connections to node x293:nc_01.  This node is used by d:x293:1.
+WARNING: Less than two connections to node x293:nc_02.  This node is used by d:x293:1.
+WARNING: Less than two connections to node x293:nc_03.  This node is used by d:x293:2.
+WARNING: Less than two connections to node x293:nc_04.  This node is used by d:x293:2.
+WARNING: Less than two connections to node x294:nc_01.  This node is used by d:x294:1.
+WARNING: Less than two connections to node x294:nc_02.  This node is used by d:x294:1.
+WARNING: Less than two connections to node x294:nc_03.  This node is used by d:x294:2.
+WARNING: Less than two connections to node x294:nc_04.  This node is used by d:x294:2.
+WARNING: Less than two connections to node x295:nc_01.  This node is used by d:x295:1.
+WARNING: Less than two connections to node x295:nc_02.  This node is used by d:x295:1.
+WARNING: Less than two connections to node x295:nc_03.  This node is used by d:x295:2.
+WARNING: Less than two connections to node x295:nc_04.  This node is used by d:x295:2.
+WARNING: Less than two connections to node x296:nc_01.  This node is used by d:x296:1.
+WARNING: Less than two connections to node x296:nc_02.  This node is used by d:x296:1.
+WARNING: Less than two connections to node x296:nc_03.  This node is used by d:x296:2.
+WARNING: Less than two connections to node x296:nc_04.  This node is used by d:x296:2.
+WARNING: Less than two connections to node x297:nc_01.  This node is used by d:x297:1.
+WARNING: Less than two connections to node x297:nc_02.  This node is used by d:x297:1.
+WARNING: Less than two connections to node x297:nc_03.  This node is used by d:x297:2.
+WARNING: Less than two connections to node x297:nc_04.  This node is used by d:x297:2.
+WARNING: Less than two connections to node x298:nc_01.  This node is used by d:x298:1.
+WARNING: Less than two connections to node x298:nc_02.  This node is used by d:x298:1.
+WARNING: Less than two connections to node x298:nc_03.  This node is used by d:x298:2.
+WARNING: Less than two connections to node x298:nc_04.  This node is used by d:x298:2.
+WARNING: Less than two connections to node x299:nc_01.  This node is used by d:x299:1.
+WARNING: Less than two connections to node x299:nc_02.  This node is used by d:x299:1.
+WARNING: Less than two connections to node x299:nc_03.  This node is used by d:x299:2.
+WARNING: Less than two connections to node x299:nc_04.  This node is used by d:x299:2.
+WARNING: Less than two connections to node x300:nc_01.  This node is used by d:x300:1.
+WARNING: Less than two connections to node x300:nc_02.  This node is used by d:x300:1.
+WARNING: Less than two connections to node x300:nc_03.  This node is used by d:x300:2.
+WARNING: Less than two connections to node x300:nc_04.  This node is used by d:x300:2.
+WARNING: Less than two connections to node x301:nc_01.  This node is used by d:x301:1.
+WARNING: Less than two connections to node x301:nc_02.  This node is used by d:x301:1.
+WARNING: Less than two connections to node x301:nc_03.  This node is used by d:x301:2.
+WARNING: Less than two connections to node x301:nc_04.  This node is used by d:x301:2.
+WARNING: Less than two connections to node x302:nc_01.  This node is used by d:x302:1.
+WARNING: Less than two connections to node x302:nc_02.  This node is used by d:x302:1.
+WARNING: Less than two connections to node x302:nc_03.  This node is used by d:x302:2.
+WARNING: Less than two connections to node x302:nc_04.  This node is used by d:x302:2.
+WARNING: Less than two connections to node x303:nc_01.  This node is used by d:x303:1.
+WARNING: Less than two connections to node x303:nc_02.  This node is used by d:x303:1.
+WARNING: Less than two connections to node x303:nc_03.  This node is used by d:x303:2.
+WARNING: Less than two connections to node x303:nc_04.  This node is used by d:x303:2.
+WARNING: Less than two connections to node x304:nc_01.  This node is used by d:x304:1.
+WARNING: Less than two connections to node x304:nc_02.  This node is used by d:x304:1.
+WARNING: Less than two connections to node x304:nc_03.  This node is used by d:x304:2.
+WARNING: Less than two connections to node x304:nc_04.  This node is used by d:x304:2.
+WARNING: Less than two connections to node x305:nc_01.  This node is used by d:x305:1.
+WARNING: Less than two connections to node x305:nc_02.  This node is used by d:x305:1.
+WARNING: Less than two connections to node x305:nc_03.  This node is used by d:x305:2.
+WARNING: Less than two connections to node x305:nc_04.  This node is used by d:x305:2.
+WARNING: Less than two connections to node x306:nc_01.  This node is used by d:x306:1.
+WARNING: Less than two connections to node x306:nc_02.  This node is used by d:x306:1.
+WARNING: Less than two connections to node x306:nc_03.  This node is used by d:x306:2.
+WARNING: Less than two connections to node x306:nc_04.  This node is used by d:x306:2.
+v1: Missing value, assumed 0V @ DC
+Total elapsed time: 0.182 seconds.
+
