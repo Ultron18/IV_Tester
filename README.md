@@ -124,3 +124,8 @@ Simulation/
 ├── ToDo_New_Apr16.txt
 └── ToDo_Overview.txt
 ```
+
+---
+---
+# Instructions to follow
+If merging is done, go to `Simulation` directory to see the different versions of simulation work performed in Sem 8.
